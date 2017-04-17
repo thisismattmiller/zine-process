@@ -1,0 +1,19 @@
+{
+  "name": "zines-process",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image.js",
+  "dependencies": {
+    "@google-cloud/vision": "^0.11.0",
+    "gm": "^1.23.0",
+    "highland": "^2.10.5",
+    "lda": "^0.1.9",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
